@@ -2,12 +2,15 @@
 
 #STEPS
 
-1. Introduction
-2. Install Tools
-3. Create React APP
-4. Create Git Repository
-5. List Products
-   5.1 creating products array
-   5.2 add product images
-   5.3 render products
-   5.4 style products
+1. Install Tools (Node, GitBash)
+2. Create React APP
+3. Create Git Repository
+4. List Products
+   4.1 creating products array
+   4.2 add product images
+   4.3 render products
+   4.4 style products
+5. Add Page Routing
+   6.1 npm i react-router-dom
+   6.2 create route for home screen
+   6.3 create router for product screen
