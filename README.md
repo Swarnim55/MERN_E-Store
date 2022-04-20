@@ -33,3 +33,7 @@
    7.3 use state hook
    7.4 use effect hook
    7.5 use reducer hook
+8. Manage State By Reducer Hook
+   8.1 define reducer
+   8.2 update fetch data
+   8.3 get state from useReducer
