@@ -64,3 +64,7 @@
     15.1 Creat two columns
     15.2 Display Item List
     15.3 Create Action Column
+16. Complete Cart Screen
+    16.1 Implement Click Handler for inc/dec item
+    16.2 Implement Click Handler for remove item
+    16.3 Implement Click Handler for checkout
