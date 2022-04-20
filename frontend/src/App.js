@@ -2,19 +2,35 @@ import data from './data';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import HomeScreen from './screens/HomeScreen';
 import ProductScreen from './screens/ProductScreen';
+import Navbar from 'react-bootstrap/Navbar';
+import Container from 'react-bootstrap/Container';
+import { LinkContainer } from 'react-router-bootstrap';
 function App() {
   return (
     <BrowserRouter>
-      <div>
+      <div className="d-flex flex-column site-container">
         <header>
-          <Link to="/">E-Store</Link>
+          <Navbar bg="dark" variant="dark">
+            <Container>
+              <LinkContainer to="/">
+                <Navbar.Brand>E-Store</Navbar.Brand>
+              </LinkContainer>
+            </Container>
+          </Navbar>
         </header>
         <main>
-          <Routes>
-            <Route path="/product/:slug" element={<ProductScreen />} />
-            <Route path="/" element={<HomeScreen />} />
-          </Routes>
+          <Container>
+            <Routes>
+              <Route path="/product/:slug" element={<ProductScreen />} />
+              <Route path="/" element={<HomeScreen />} />
+            </Routes>
+          </Container>
         </main>
+        <footer>
+          <div className="text-center">
+            &copy; 2022 - Swarnim Paudyal : E-STORE
+          </div>
+        </footer>
       </div>
     </BrowserRouter>
   );

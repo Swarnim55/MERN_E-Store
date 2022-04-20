@@ -37,3 +37,6 @@
    8.1 define reducer
    8.2 update fetch data
    8.3 get state from useReducer
+9. Add Bootstrap UI
+   9.1 npm install react-bootstrap bootstrap
+   9.2 update App.js
