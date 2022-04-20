@@ -15,11 +15,17 @@ main {
   flex: 1;
 }
 
+
+
 .products {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 
+}
+
+.rating span {
+  color: #ffc000;
 }
 
 .product {

@@ -40,3 +40,7 @@
 9. Add Bootstrap UI
    9.1 npm install react-bootstrap bootstrap
    9.2 update App.js
+10. Create Product and Rating Component
+    10.1 Create Rating Component
+    10.2 Create Product Component
+    10.3 Use Rating Component in Product Component
