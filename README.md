@@ -72,3 +72,8 @@
     17.1 Create Signin Form
     17.2 Add Email & Password
     17.3 Add Signin Button
+18. Connecting to MongoDB
+    18.1 Creating on MongoDb Atlas (cloud) DB
+    18.2 Installing Local MongoDb Database
+    18.3 npm install mongoose
+    18.4 Connecting to mongodb database
