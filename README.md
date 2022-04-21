@@ -68,3 +68,7 @@
     16.1 Implement Click Handler for inc/dec item
     16.2 Implement Click Handler for remove item
     16.3 Implement Click Handler for checkout
+17. Create Signin Screen
+    17.1 Create Signin Form
+    17.2 Add Email & Password
+    17.3 Add Signin Button
