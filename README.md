@@ -99,3 +99,7 @@
     23.1 create form inputs
     23.2 handle save shipping address
     23.3 add checkout wizard bar
+24. Create Signup Screen
+    24.1 create input forms
+    24.2 handle submit
+    24.3 create backend api
