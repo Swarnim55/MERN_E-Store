@@ -45,7 +45,7 @@ function Product(props) {
           </Button>
         ) : (
           <Button
-            className="btn-warning"
+            className="btn-danger"
             onClick={() => addToCartHandler(product)}
           >
             Add to Cart
