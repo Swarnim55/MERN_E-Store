@@ -163,3 +163,6 @@
     38.1. create edit button
     38.2. create edit product ui
     38.3. dispaly product info in the input boxes
+39. Implement Update Product
+    39.1. create edit product backend api
+    39.2. handle update click
