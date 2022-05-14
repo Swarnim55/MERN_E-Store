@@ -167,11 +167,15 @@
     39.1. create edit product backend api
     39.2. handle update click
 40. Upload Product Image
-    40.1 create cloudinary account
-    40.2 use the api key in env file
-    40.3 handle upload file
-    40.4 implement backend api to upload
+    40.1. create cloudinary account
+    40.2. use the api key in env file
+    40.3. handle upload file
+    40.4. implement backend api to upload
 41. Delete Product
-    41.1 show delete button
-    41.2implement backend api
-    41.3handle on click
+    41.1. show delete button
+    41.2. implement backend api
+    41.3. handle on click
+42. List Orders
+    42.1. create order list screen
+    42.2. implement backen api
+    42.3. fetch and display orders
