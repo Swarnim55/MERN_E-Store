@@ -183,3 +183,7 @@
     43.1. add deliver button
     43.2. handle click action
     43.3. implement backen api for deliver
+44. Delete Order
+    44.1. add delete button
+    44.2. handle click action
+    44.3. implement backen api for delete
