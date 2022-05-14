@@ -179,3 +179,7 @@
     42.1. create order list screen
     42.2. implement backen api
     42.3. fetch and display orders
+43. Deliver Order
+    43.1. add deliver button
+    43.2. handle click action
+    43.3. implement backen api for deliver
